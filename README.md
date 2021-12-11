@@ -20,6 +20,10 @@
 
 ### 部分截图
 ![输入图片说明](doc/image/1.png)
+![输入图片说明](doc/image/2.png)
+![输入图片说明](doc/image/3.png)
+![输入图片说明](doc/image/4.png)
+![输入图片说明](doc/image/5.png)
 
 ### 作者信息
 
@@ -28,11 +32,7 @@
 3.  官网：sourcebyte.cn
 
 ### 交流群
-![输入图片说明](doc/image/1.png)
-![输入图片说明](doc/image/2.png)
-![输入图片说明](doc/image/3.png)
-![输入图片说明](doc/image/4.png)
-![输入图片说明](doc/image/5.png)
+![输入图片说明](https://img-blog.csdnimg.cn/df9928e2ebe6497f94fb7fe1a207ced7.jpg)
 
 ## 结语
 
