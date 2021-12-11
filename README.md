@@ -19,11 +19,7 @@
 手机端：http://8.136.213.245/#/
 
 ### 部分截图
-<img src="https://zhoukaiwen.com/img/Design/app/FotoJet11.jpg" width="100%" />
-<img src="https://zhoukaiwen.com/img/Design/app/FotoJet1.jpg" width="100%" />
-<img src="https://cdn.zhoukaiwen.com/FotoJet2.png" width="100%" />
-<img src="https://cdn.zhoukaiwen.com/FotoJet3.png" width="100%" />
-<img src="https://cdn.zhoukaiwen.com/FotoJet4.png" width="100%" />
+![输入图片说明](doc/image/1.png)
 
 ### 作者信息
 
@@ -32,7 +28,11 @@
 3.  官网：sourcebyte.cn
 
 ### 交流群
-![输入图片说明](https://img-blog.csdnimg.cn/df9928e2ebe6497f94fb7fe1a207ced7.jpg)
+![输入图片说明](doc/image/1.png)
+![输入图片说明](doc/image/2.png)
+![输入图片说明](doc/image/3.png)
+![输入图片说明](doc/image/4.png)
+![输入图片说明](doc/image/5.png)
 
 ## 结语
 
