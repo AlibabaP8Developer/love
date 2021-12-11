@@ -18,12 +18,18 @@
 ### 项目地址
 手机端：http://8.136.213.245/#/
 
-pc端：sourcebyte.cn
+### 部分截图
+<img src="https://zhoukaiwen.com/img/Design/app/FotoJet11.jpg" width="100%" />
+<img src="https://zhoukaiwen.com/img/Design/app/FotoJet1.jpg" width="100%" />
+<img src="https://cdn.zhoukaiwen.com/FotoJet2.png" width="100%" />
+<img src="https://cdn.zhoukaiwen.com/FotoJet3.png" width="100%" />
+<img src="https://cdn.zhoukaiwen.com/FotoJet4.png" width="100%" />
 
 ### 作者信息
 
 1.  作者：詹Sir
 2.  邮箱：261648947@qq.com
+3.  官网：sourcebyte.cn
 
 ### 交流群
 ![输入图片说明](https://img-blog.csdnimg.cn/df9928e2ebe6497f94fb7fe1a207ced7.jpg)
