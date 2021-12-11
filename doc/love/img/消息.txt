@@ -1,4 +1,0 @@
-https://api.citymiai.com/media/common/images/ic_message.png
-https://api.citymiai.com/media/common/images/ic_friend.png
-https://api.citymiai.com/media/common/images/ic_xitong.png
-https://api.citymiai.com/media/common/images/no_message.png
