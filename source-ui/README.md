@@ -18,13 +18,6 @@
 ### 项目地址
 手机端：http://8.136.213.245/#/
 
-### 部分截图
-<img src="https://gitee.com/open-source-byte/source-love/blob/master/source-ui/doc/image/1.png" width="100%" />
-<img src="https://gitee.com/open-source-byte/source-love/blob/master/source-ui/doc/image/2.png" width="100%" />
-<img src="https://gitee.com/open-source-byte/source-love/blob/master/source-ui/doc/image/3.png" width="100%" />
-<img src="https://gitee.com/open-source-byte/source-love/blob/master/source-ui/doc/image/4.png" width="100%" />
-<img src="https://gitee.com/open-source-byte/source-love/blob/master/source-ui/doc/image/5.png" width="100%" />
-
 ### 作者信息
 
 1.  作者：詹Sir
