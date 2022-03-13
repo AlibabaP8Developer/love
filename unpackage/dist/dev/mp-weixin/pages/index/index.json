@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "寻缘日记",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "u-section": "/uview-ui/components/u-section/u-section",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-lazy-load": "/uview-ui/components/u-lazy-load/u-lazy-load"
+  }
+}

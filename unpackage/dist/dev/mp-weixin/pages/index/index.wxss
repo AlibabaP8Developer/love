@@ -1,0 +1,73 @@
+
+page{
+	background-color:#FFFFFF;
+}
+
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.qiandao.data-v-57280228 {
+  width: 100rpx;
+  height: 60rpx;
+  border-radius: 30%;
+}
+.section.data-v-57280228 {
+  display: flex;
+  justify-content: space-between;
+}
+.section .section-title.data-v-57280228 {
+  font-size: 32rpx;
+  color: #303133;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section .section-right.data-v-57280228 {
+  font-size: 28rpx;
+  color: #909399;
+}
+.kite-classify-scroll.data-v-57280228 {
+  width: 100%;
+  height: 165rpx;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.kite-classify-scroll .wall-add.data-v-57280228 {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 100%;
+}
+.kite-classify-cell.data-v-57280228 {
+  display: inline-block;
+  width: 150rpx;
+  height: 165rpx;
+  margin-right: 20rpx;
+  background-color: #ffffff;
+  border-radius: 10rpx;
+  overflow: hidden;
+}
+.kite-classify-cell .cell-view.data-v-57280228 {
+  width: 120rpx;
+  height: 120rpx;
+  background: linear-gradient(to bottom, #fe3ea5, #FFA500);
+  border-radius: 100%;
+}
+.kite-classify-cell .cell-view .cell-img.data-v-57280228 {
+  width: 115rpx;
+  height: 115rpx;
+  background: #FFFFFF;
+  border-radius: 100%;
+}
+.kite-classify-cell .cell-view .cell-img image.data-v-57280228 {
+  width: 105rpx;
+  height: 105rpx;
+  border-radius: 100%;
+}
+.ic-img.data-v-57280228 {
+  display: inline-block;
+  margin-left: 15rpx;
+  line-height: 30rpx;
+}
+
