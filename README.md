@@ -20,7 +20,7 @@ H5：<http://47.243.114.191:8080/love>
 小程序
 
 <p align="left">
-<img alt="logo" src="https://gitee.com/open-source-byte/source-mall/raw/master/doc/sourcebyte1.jpg">
+<img alt="logo" src="https://gitee.com/open-source-byte/source-love/raw/master/doc/image/0.jpg">
 </p>
 
 ## 部分截图
