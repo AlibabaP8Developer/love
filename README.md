@@ -20,7 +20,7 @@ H5：<http://47.243.114.191:8080/love>
 小程序
 
 <p align="left">
-<img alt="logo" src="https://gitee.com/open-source-byte/source-love/raw/master/doc/image/0.jpg">
+<img alt="logo" src="https://gitee.com/open-source-byte/source-mall/raw/master/doc/sourcebyte1.jpg">
 </p>
 
 ## 部分截图
@@ -31,7 +31,7 @@ H5：<http://47.243.114.191:8080/love>
 
 ### 2. 移动端截图
 <p align="center">
-<img alt="logo" src="https://gitee.com/open-source-byte/source-mall/raw/master/doc/0.jpg" style="width:100px;">
+<img alt="logo" src="https://gitee.com/open-source-byte/source-love/raw/master/doc/image/0.jpg" style="width:100px;">
 </p>
 
 
