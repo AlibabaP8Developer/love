@@ -17,12 +17,6 @@ H5：<http://47.243.114.191:8080/love>
 
 官网：<http://boot.sourcebyte.cn>  
 
-小程序
-
-<p align="left">
-<img alt="logo" src="https://gitee.com/open-source-byte/source-mall/raw/master/doc/sourcebyte1.jpg">
-</p>
-
 ## 部分截图
 
 ### 1. 后台截图
@@ -47,4 +41,6 @@ http://doc.sourcebyte.cn:8082/index.html
 3.  官网：sourcebyte.cn
 
 ### 交流群
-![输入图片说明](https://img-blog.csdnimg.cn/df9928e2ebe6497f94fb7fe1a207ced7.jpg)
+<p align="left">
+<img alt="logo" src="https://img-blog.csdnimg.cn/df9928e2ebe6497f94fb7fe1a207ced7.jpg" width="200">
+</p>
