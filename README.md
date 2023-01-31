@@ -13,7 +13,7 @@
 
 - 官网地址：<https://sourcebyte.vip> 
 - H5地址：<http://43.142.193.197:8080/love>
-- 后台地址：<http://boot.sourcebyte.cn:8081/login>  
+- 后台地址：<http://boot.sourcebyte.vip>  
 - 开发文档：<http://doc.sourcebyte.vip>
 - 小程序
 
