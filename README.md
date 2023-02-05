@@ -1,7 +1,3 @@
-```
-🕙 分享是一种美德，右上随手点个 🌟 Star，谢谢 
-```
-
 ### 前言
 曾经，作者也为寻求自己的另一半苦恼，因为平时工作繁忙，交际圈窄小，而父母又各种催婚，无奈上了“XX网”去碰碰运气。
 好不容易，在它的相亲资料库里看到自己心仪的对象，于是找红娘前去索要联系方式，被告知至少需要交1280元会员费（半年为期，可自由选择12个会员编号）。
@@ -32,14 +28,5 @@
 
 ### 作者信息
 
-1.  作者：詹Sir
-2.  邮箱：261648947@qq.com
-
-### QQ交流群
-| 1群(851042670) | 2群(522723115) | 3群(862649072) |
-| :------: | :------: | :------: |
-| <img src="https://gitee.com/open-source-byte/source-vue/raw/master/doc/qq01.png" width="200px">| <img src="https://gitee.com/open-source-byte/source-vue/raw/master/doc/qq02.png" width="200px">| <img src="https://gitee.com/open-source-byte/source-vue/raw/master/doc/qq03.png" width="200px">| 
-
-### 结语
-
-欢迎一起探讨，如果您觉得还可以，您可以给我点一个star
+1.  作者：拓跋思恭
+2.  邮箱：1135365441@qq.com
